@@ -1,3 +1,3 @@
-## Hi there 👋
+# Dev Safe
 
-We are dev-safe, a team of developpers striving to build lightweight, efficient and of course _safe_ and robust software.
+**Dev Safe**, is for now a litle startup by students in different domains and field, which build and ship projects arround them.
